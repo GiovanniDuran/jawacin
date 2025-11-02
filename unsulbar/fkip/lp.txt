@@ -4,6 +4,7 @@
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-953691586&amp;cx=c&amp;gtm=4e59n2" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-800411572&amp;cx=c&amp;gtm=4e59n2" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-943617023&amp;cx=c&amp;gtm=4e59n2" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Z72VQCKY0&amp;cx=c&amp;gtm=4e59n2" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KGCDGPL6"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <link rel="amphtml" href="https://jawacin.pages.dev/pontianak/amp.html" />
+<meta name="google-site-verification" content="OHdZz1eo0_nKf99_wt6vwssIUAtNIgFByAeSnYK2wVo" />
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
