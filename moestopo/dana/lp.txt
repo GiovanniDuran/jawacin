@@ -1385,7 +1385,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://journal.moestopo.ac.id/dana/">
 
-                                                SITUS GACOR
+                                                SLOT DANA TANPA POTONGAN
 
                                             </a>
                                         </li>
