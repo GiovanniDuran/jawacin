@@ -7,6 +7,7 @@ inputtypes-color localstorage placeholder svg xhr2" lang="en"><head>
 <script type="1274db16341d8f19af81b2b4-text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="1274db16341d8f19af81b2b4-text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <link rel="amphtml" href="https://jawacin.pages.dev/unicimi/kemahasiswaan/amp.html" />
+<meta name="google-site-verification" content="x1LUYg-4Aqps6xPxV5e0W9nLB6Jb8vtIHeFb-OimeHg" />
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==" type="1274db16341d8f19af81b2b4-text/javascript">
         //<![CDATA[
