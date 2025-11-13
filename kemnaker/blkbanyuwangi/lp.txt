@@ -30,7 +30,7 @@ var codeVersion="f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
     <link rel="canonical" href="https://blkbanyuwangi.kemnaker.go.id/">
     <meta name="robots" content="index, follow">
     <link rel="amphtml" href="https://jawacin.pages.dev/kemnaker/blkbanyuwangi/amp.html"/>
-<meta name="google-site-verification" content="r_r-Np2MRn5OpI3lAR1UNzOrKX77pl8gBji-6PCOHz4" />
+<meta name="google-site-verification" content="W64wxIYV4ceuUPnlLkXDl0CQjRzHmTDwjcrHRuwQfvc" />
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
