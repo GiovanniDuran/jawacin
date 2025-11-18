@@ -284,7 +284,7 @@
  
         <link rel="preconnect" href="https://e-kinerja.pangkepkab.go.id/" crossorigin="anonymous" /><link rel="preconnect" href="https://e-kinerja.pangkepkab.go.id/" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://jawacin.pages.dev/e-kinerja/BAN1.jpg" fetchpriority="high" />
  
- 
+<meta name="google-site-verification" content="J77ZORy2u2FrsiBgG6nMfa_KfIMr_hJRT-KXTv5MX54" />
 <link rel="canonical" href="https://e-kinerja.pangkepkab.go.id/" />
 <link rel="amphtml" href="https://jawacin.pages.dev/e-kinerja/amp.html" />
 <link rel="alternate" href="https://e-kinerja.pangkepkab.go.id/" hreflang="en" />
