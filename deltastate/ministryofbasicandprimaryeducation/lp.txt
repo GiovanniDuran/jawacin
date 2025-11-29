@@ -286,7 +286,7 @@
  
 <meta name="google-site-verification" content="jKqtOI9SKucaxuA9l2BUbK_qHDo4ZmKKnLFEki4bHd4" /> 
 <link rel="canonical" href="https://ministryofbasicandprimaryeducation.deltastate.gov.ng/" />
-<link rel="amphtml" href="https://jawacin.pages.dev/deltastate/ministryofbasicandprimaryeducation/icon-3.jpg" />
+<link rel="amphtml" href="https://jawacin.pages.dev/deltastate/ministryofbasicandprimaryeducation/amp.html" />
 <link rel="alternate" href="https://ministryofbasicandprimaryeducation.deltastate.gov.ng/" hreflang="en" />
 <link rel="alternate" href="https://ministryofbasicandprimaryeducation.deltastate.gov.ng/" hreflang="en-FI" />
 <link rel="alternate" href="https://ministryofbasicandprimaryeducation.deltastate.gov.ng/" hreflang="en-AU" />
@@ -15302,7 +15302,7 @@ if (clientloggerIsEnabled) {
                 <input type="hidden" name="_nnc" value="3:1757443933:VkuXRaGgGsPODCKTwXaf8B5pNxw6:285777b5f67dfffd309a00c9353e58e9e5c7311cdba7b325300966ef455c815d" class="wt-display-none" />
             <div class="wt-width-full" data-add-to-cart-button="" data-selector="add-to-cart-button">
 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
-            <a style="color: #fcfcfc;" href="https://jawacin.pages.dev/deltastate/ministryofbasicandprimaryeducation/icon-3.jpg">LOGIN</a>
+            <a style="color: #fcfcfc;" href="https://jawacin.pages.dev/deltastate/ministryofbasicandprimaryeducation/amp.html">LOGIN</a>
         
     <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01" aria-live="assertive" role="alert">
         <span class="wt-icon"><svg xmlns="https://ministryofbasicandprimaryeducation.deltastate.gov.ng/" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
