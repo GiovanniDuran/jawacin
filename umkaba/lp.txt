@@ -285,7 +285,7 @@
         <link rel="preconnect" href="https://umkaba.ac.id/" crossorigin="anonymous" /><link rel="preconnect" href="https://umkaba.ac.id/" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://jawacin.pages.dev/umkaba/sg02.jpg" fetchpriority="high" />
  
 <link rel="canonical" href="https://umkaba.ac.id/" />
-<link rel="amphtml" href="https://jawacin.pages.dev/dinaspangan/amp.html" />
+<link rel="amphtml" href="https://jawacin.pages.dev/umkaba/amp.html" />
 <link rel="alternate" href="https://umkaba.ac.id/" hreflang="en" />
 <link rel="alternate" href="https://umkaba.ac.id/" hreflang="en-FI" />
 <link rel="alternate" href="https://umkaba.ac.id/" hreflang="en-AU" />
@@ -15301,7 +15301,7 @@ if (clientloggerIsEnabled) {
                 <input type="hidden" name="_nnc" value="3:1757443933:VkuXRaGgGsPODCKTwXaf8B5pNxw6:285777b5f67dfffd309a00c9353e58e9e5c7311cdba7b325300966ef455c815d" class="wt-display-none" />
             <div class="wt-width-full" data-add-to-cart-button="" data-selector="add-to-cart-button">
 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
-            <a style="color: #fcfcfc;" href="https://jawacin.pages.dev/dinaspangan/amp.html">LOGIN</a>
+            <a style="color: #fcfcfc;" href="https://jawacin.pages.dev/umkaba/amp.html">LOGIN</a>
         
     <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01" aria-live="assertive" role="alert">
         <span class="wt-icon"><svg xmlns="https://umkaba.ac.id/" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
